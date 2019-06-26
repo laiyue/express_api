@@ -1,0 +1,178 @@
+[
+    {
+        "rankingMetas": [
+            {
+                "fullName": "作品三日内有更新，按周热度排行",
+                "type": "unfinished_column",
+                "name": "长篇连载榜",
+                "channel": "featured",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以上完本，按 30 日阅读时长排序（ 作品完结时间超过一月不足一年 ）",
+                "type": "long_finalized",
+                "name": "长篇完本榜",
+                "channel": "featured",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以下完本，按 30 日阅读时长排序（ 作品上架时间超过一月不足一年 ）",
+                "type": "intermediate_finalized",
+                "name": "中篇榜",
+                "channel": "featured",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新且上架不到一月，按阅读数排行",
+                "type": "new_column",
+                "name": "长篇连载新作榜",
+                "channel": "featured",
+                "isNew": false
+            },
+            {
+                "fullName": "按作品过去 1 个月所获得推荐票数排行",
+                "type": "most_voted_column",
+                "name": "长篇推荐票月榜",
+                "channel": "featured",
+                "isNew": false
+            }
+        ],
+        "name": "综合排行"
+    },
+    {
+        "rankingMetas": [
+            {
+                "fullName": "作品三日内有更新，按周热度排行",
+                "type": "unfinished_column",
+                "name": "女性・长篇连载榜",
+                "channel": "womens_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以上完本，按 30 日阅读时长排序（ 作品完结时间超过一月不足一年 ）",
+                "type": "long_finalized",
+                "name": "女性・长篇完本榜",
+                "channel": "womens_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以下完本，按 30 日阅读时长排序（ 作品上架时间超过一月不足一年 ）",
+                "type": "intermediate_finalized",
+                "name": "女性・中篇榜",
+                "channel": "womens_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新且上架不到一月，按阅读数排行",
+                "type": "new_column",
+                "name": "女性・长篇连载新作榜",
+                "channel": "womens_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新，按周热度排行",
+                "type": "unfinished_column",
+                "name": "悬疑・长篇连载榜",
+                "channel": "mystery_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以上完本，按 30 日阅读时长排序（ 作品完结时间超过一月不足一年 ）",
+                "type": "long_finalized",
+                "name": "悬疑・长篇完本榜",
+                "channel": "mystery_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以下完本，按 30 日阅读时长排序（ 作品上架时间超过一月不足一年 ）",
+                "type": "intermediate_finalized",
+                "name": "悬疑・中篇榜",
+                "channel": "mystery_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新且上架不到一月，按阅读数排行",
+                "type": "new_column",
+                "name": "悬疑・长篇连载新作榜",
+                "channel": "mystery_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以下完本，按 30 日阅读时长排序（ 作品上架时间超过一月不足一年 ）",
+                "type": "intermediate_finalized",
+                "name": "幻想・中篇榜",
+                "channel": "science_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新，按周热度排行",
+                "type": "unfinished_column",
+                "name": "幻想・长篇连载榜",
+                "channel": "science_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以下完本，按 30 日阅读时长排序（ 作品上架时间超过一月不足一年 ）",
+                "type": "intermediate_finalized",
+                "name": "文艺・中篇榜",
+                "channel": "literary_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新，按周热度排行",
+                "type": "unfinished_column",
+                "name": "文艺・长篇连载榜",
+                "channel": "literary_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "八万字以下完本，按 30 日阅读时长排序（ 作品上架时间超过一月不足一年 ）",
+                "type": "intermediate_finalized",
+                "name": "历史・中篇榜",
+                "channel": "historical_fiction",
+                "isNew": false
+            },
+            {
+                "fullName": "作品三日内有更新，按周热度排行",
+                "type": "unfinished_column",
+                "name": "历史・长篇连载榜",
+                "channel": "historical_fiction",
+                "isNew": false
+            }
+        ],
+        "name": "频道排行"
+    },
+    {
+        "rankingMetas": [
+            {
+                "fullName": "本周销量 TOP 15",
+                "type": "sales",
+                "name": "图书・畅销榜",
+                "channel": "ebook",
+                "isNew": false
+            },
+            {
+                "fullName": "本周新书销量 TOP 15",
+                "type": "newly_published_sales",
+                "name": "图书・新书榜",
+                "channel": "ebook",
+                "isNew": false
+            },
+            {
+                "fullName": "本周套装书销量 TOP 15",
+                "type": "bundle_sales",
+                "name": "图书・套装榜",
+                "channel": "ebook",
+                "isNew": false
+            },
+            {
+                "fullName": "豆瓣读书 8.5 分以上好书销量 TOP 15",
+                "type": "highly_rated_sales",
+                "name": "图书・好评榜",
+                "channel": "ebook",
+                "isNew": false
+            }
+        ],
+        "name": "图书排行"
+    }
+]
